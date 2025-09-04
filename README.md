@@ -29,6 +29,7 @@ project-root/
 # Clone the repository
 git clone <your-repo-url>
 cd backend
+go to the link https://drive.google.com/file/d/1NiHcND1--iINjTFl874D4Sd5Fidix10s/view?usp=sharing and copy the cred.json file and paste in the backend folder as cred.json
 
 # Create virtual environment (Linux/macOS)
 python3 -m venv venv
