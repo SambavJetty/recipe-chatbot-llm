@@ -3,25 +3,6 @@
 A **React.js chatbot** integrated with a **Vertex AI fine-tuned Gemini Flash Lite model**.  
 The chatbot streams real-time responses using the [`@ai-sdk/google-vertex`](https://www.npmjs.com/package/@ai-sdk/google-vertex) SDK.
 
----
-
-## 📂 Project Structure
-project-root/
-│
-├── backend/ # Flask API for handling Vertex AI requests
-│ ├── app.py
-│ ├── venv/ # Python virtual environment (ignored in git)
-│ └── requirements.txt
-│
-├── frontend/ # React.js chatbot UI
-│ ├── src/
-│ ├── public/
-│ └── package.json
-│
-└── README.md
-
----
-
 ## 📦 Setup Instructions
 
 ### 1️⃣ Backend (Flask API)
